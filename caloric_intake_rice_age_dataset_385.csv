@@ -1,7 +1,12 @@
 age_group,sex,location,income_group,occupation,rice_per_meal_cup,rice_times_per_day,eaten_with,water_litres_per_day,physical_activity,late_night_eating,calories_goal_per_day,class
-26-35,Male,Urban,Middle,Private,1.05,1,Vegetables,2.7,Moderate,Yes,1781,0
-44-54,Female,Semi-Urban,Middle,Homemaker,1.19,2,Butter,2.6,Low,No,2439,1
-55-65,Male,Rural,Low,Retired,2.25,1,Ghee,3.0,High,No,2435,2
-33-43,Female,Urban,High,Government,0.99,2,Vegetables,1.9,Low,No,1832,0
-23-32,Male,Urban,Middle,Private,1.11,1,Ghee,2.8,Moderate,Yes,1867,0
-... (data truncated)
+26-35,Male,Urban,Middle,Private,1.02,1,Vegetables,2.58,Moderate,Yes,1796,0
+29-39,Female,Urban,Middle,Homemaker,1.33,1,Butter,2.44,Moderate,No,2062,1
+56-65,Male,Rural,Low,Retired,2.64,2,Ghee,3.00,High,No,2461,2
+27-36,Male,Semi-Urban,Low,Business,1.12,1,Ghee,2.79,Moderate,Yes,1808,0
+35-45,Female,Urban,High,Government,1.58,1,Vegetables,1.98,Low,No,2012,1
+54-63,Female,Rural,Middle,Farmer,2.23,2,Ghee,2.97,Moderate,No,2409,2
+38-47,Male,Urban,Middle,Private,1.11,2,Vegetables,2.85,Moderate,No,1812,0
+43-52,Female,Rural,Low,Homemaker,1.52,2,Vegetables,2.00,Low,No,2051,1
+48-57,Male,Semi-Urban,Middle,Retired,2.58,1,None,2.98,Low,No,2384,2
+41-51,Male,Urban,Middle,Student,1.20,1,Vegetables,2.74,Moderate,Yes,1791,0
+... (truncated; see https://raw.githubusercontent.com/connecthassan/markivexa/main/caloric_intake_rice_age_dataset_385.csv for the full file)
